@@ -34,6 +34,49 @@
 
             #endregion
 
+            #region Write C# program that Assigning one reference type variable to another and modifying the object through one variable and mention what will happen
+
+
+            // make object D1
+
+
+
+            //Distance D1 = new Distance();
+            //// assign value 
+            //D1.x = 100;
+            //D1.y = 50;
+
+            //// make Object D2
+            //Distance D2 = new Distance();
+
+            //// assign D2 by D1
+            //D2 = D1;
+
+            //// Display value 
+            //Console.WriteLine("the value of (D1)" + D1.x);
+            //Console.WriteLine("the value of (D1)" + D1.y);
+
+
+            //Console.WriteLine("the value of (D2)" + D2.x);
+            //Console.WriteLine("the value of (D2)" + D2.y);
+
+            //// update D1
+            //D1.x = 5;
+            //D1.y = 10;
+
+            //Console.WriteLine("-------------after update-------------------");
+
+            //Console.WriteLine("the value of (D1)" + D1.x);
+            //Console.WriteLine("the value of (D1)" + D1.y);
+
+
+            //Console.WriteLine("the value of (D2)" + D2.x);
+            //Console.WriteLine("the value of (D2)" + D2.y);
+
+            //// D2 is changed after change D1 beacause D2 copy refernces of D1
+            //// D2 is changed after change D1 beacause D2 copy refernces of D1
+
+            #endregion
         }
     }
 }
